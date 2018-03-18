@@ -17,4 +17,3 @@ alias gpof='git push origin HEAD -f'
 alias gca='git commit --amend --no-edit'
 alias gsh='git stash save'
 alias gsa='git stash apply'
-
