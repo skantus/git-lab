@@ -18,4 +18,4 @@ alias gca='git commit --amend --no-edit'
 alias gsh='git stash save'
 alias gsa='git stash apply'
 
- --> Comments added by @skantus.
+# --> Comments added by @skantus.
